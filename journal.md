@@ -35,3 +35,12 @@ I added the 1×20 and 1×3 pin headers in the circuit design, but connecting all
 <img width="940" height="625" alt="image" src="https://github.com/user-attachments/assets/4ba614b6-f037-4d5c-840b-2a3caa5bd026" />
 
 ------
+
+# date:18/9
+# time spent:1hr
+## description:
+Now it’s the footprints time , as there were many capacitors and the resistor I was need to be done very carefully as there were more number of foot prints , sometimes by mistakenly the other footprint may get added into the other one. And the main is the selection of the footprint was a tougher tasks as we need to do based on the component and value of that. 
+<img width="940" height="456" alt="image" src="https://github.com/user-attachments/assets/b8b64357-8a69-43ac-b6ee-f45634fa0a97" />
+other components need to usually be found on LCSC and then I have gone into the datasheet to find the footprint, and then added. 
+<img width="940" height="483" alt="image" src="https://github.com/user-attachments/assets/fa9736ca-bcd8-471a-96b8-573b074fb966" />
+
