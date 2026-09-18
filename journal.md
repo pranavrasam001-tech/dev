@@ -17,3 +17,13 @@ I have created the initial schematic in KiCad and added the main components, inc
 
 ------
 
+# date:18/9
+# time spent:1.2hr
+## description:
+So here I have added the some capacitors and I have connected to the 4 pin with come capacitors and one  flash memory IC (chip), switches , resistors and many more while doing this it was quite difficult as the adding of the net labels was a vey big process to do it as we need to select net label and place where we need and we need change the label. And there were several label to add.!
+<img width="706" height="779" alt="image" src="https://github.com/user-attachments/assets/5e047fa3-14c8-4510-a756-6126ae70a498" />
+<img width="940" height="554" alt="image" src="https://github.com/user-attachments/assets/823a9d43-ac09-4503-ab76-0e61044c3ee5" />
+<img width="940" height="559" alt="image" src="https://github.com/user-attachments/assets/5a0e2e43-fb94-45d5-a4c5-df2b2f15283d" />
+
+------
+
