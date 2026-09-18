@@ -27,3 +27,11 @@ So here I have added the some capacitors and I have connected to the 4 pin with 
 
 ------
 
+# date:18/9
+# time spent:1hr
+## description:
+I added the 1×20 and 1×3 pin headers in the circuit design, but connecting all pins was little difficult. Every pin needed correct connection name, and already many connections were there near RP2040. Because of this, sometimes I missed some pins or added wrong connection name. I checked the pin numbers with component details and fixed the errors. Some net labels were same, so I arranged them properly to avoid confusion. After completing this, I checked the schematic again before moving to the PCB layout.
+<img width="590" height="646" alt="image" src="https://github.com/user-attachments/assets/3e25e2ea-573c-435d-b508-00e08c298fdd" />
+<img width="940" height="625" alt="image" src="https://github.com/user-attachments/assets/4ba614b6-f037-4d5c-840b-2a3caa5bd026" />
+
+------
