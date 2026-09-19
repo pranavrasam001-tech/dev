@@ -44,3 +44,17 @@ Now it’s the footprints time , as there were many capacitors and the resistor 
 other components need to usually be found on LCSC and then I have gone into the datasheet to find the footprint, and then added. 
 <img width="940" height="483" alt="image" src="https://github.com/user-attachments/assets/fa9736ca-bcd8-471a-96b8-573b074fb966" />
 
+------
+
+# date:18/9
+# time spent:2hrs
+## description:
+so basically I have now converted to the schematics to pcb editor where I have updated the schematics in the pcb editor and started arranging all the components where ever required
+<img width="940" height="642" alt="image" src="https://github.com/user-attachments/assets/929f7748-6ae7-40d6-8f04-f8095055e6b3" />
+I'm going to switch to the MCP1700 LDO, which is smaller, but does handle less current (250ma). So just replacing the NCP1700 with the MCP1700x-330xxTT, which is the 3.3V MCP1700:
+<img width="816" height="571" alt="image" src="https://github.com/user-attachments/assets/93240fc8-698f-4b1d-a264-b80c25cc3854" />
+So this is my complete pcb of arranging the components as it was quite difficult to arrange as there were many capacitors in it so I have done it slowly and in more zoom In.
+<img width="585" height="831" alt="image" src="https://github.com/user-attachments/assets/e39dce5f-9a3f-44f0-a01c-27dcd95fa360" />
+so finally i have doing my pcb where we need to Connected to each and every component this was my toughest task as the routing was not getting possible at all but how much i could, i have done in the routing.
+<img width="940" height="485" alt="image" src="https://github.com/user-attachments/assets/0e1b1f20-f81a-45eb-ba96-bd3a7010f8ac" />
+
